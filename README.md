@@ -1,5 +1,3 @@
-# Anemia_detection_using_medical_iamges
-
 ## Project Overview
 This project aims to detect anemia using images of the conjunctiva (the mucous membrane that covers the front of the eye and lines the inside of the eyelids). Anemia is a condition where there is a deficiency of red blood cells or hemoglobin in the blood, leading to fatigue, weakness, and other health issues. Early detection is crucial for timely treatment and management.
 
